@@ -24,6 +24,12 @@
       "title": "greate stream",
       "description": "yalla stream",
       "id": 5
+    },
+    {
+      "title": "I created this stream with my id",
+      "description": "just another stream but with id",
+      "userId": "115987812165796211855",
+      "id": 6
     }
   ]
 }
